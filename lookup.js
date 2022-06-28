@@ -1,7 +1,7 @@
 const fetch = require("node-fetch")
 
 // You might want to store this in an environment variable or something
-const token = 'OTg3MTA0MjYxOTA3Mjg0MDMw.Gjucz2.GaHcV_eY61M51WD9EDNxIZrUqqSfmDb3p27VYA'
+const token = 'your_token_to_authorize_discord'
 const readline = require('readline').createInterface({
 
     input: process.stdin,
