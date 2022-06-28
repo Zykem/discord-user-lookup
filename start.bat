@@ -1,0 +1,2 @@
+node lookup.js
+pause
